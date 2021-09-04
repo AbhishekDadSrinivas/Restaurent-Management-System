@@ -1,9 +1,9 @@
 # Restaurent-Management-System
-This project is used to order food online and get the food easily
-It has add  to cart option and u you can also choose cash on deleviery
+This project is used to order food online and get the food easily.
+It has add  to cart option and u you can also choose cash on deleviery.
+.
 ![Screenshot (21)](https://user-images.githubusercontent.com/89793622/132084066-6f95fd1d-a092-43cc-ae08-94b550f3f307.png)
                                                       HOME PAGE
-                                                      
 ![Screenshot (22)](https://user-images.githubusercontent.com/89793622/132084075-7708ebf6-a393-4560-9c24-a7a28b6198d0.png)
                                                       MENU PAGE
 ![Screenshot (23)](https://user-images.githubusercontent.com/89793622/132084078-640dce49-90ad-4755-941b-cd058a30aee5.png)
