@@ -1,0 +1,80 @@
+<!docttype html>
+<html>
+<head>
+<style type="text/css">
+div.logo1{
+    
+    margin-left: 570px;
+    padding-top: 0px;
+}
+form{
+    border: 3px solid Black;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: white;
+}
+input[type=email],
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+button{
+    background-color: blue;
+    color:white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+button:hover{
+    opacity: 0.8;
+}
+.cancelbtn{
+    width:auto;
+    padding: 10px 10px;
+    background-color: red;
+}
+.container{
+    padding: 16px;
+    font-size: 25;
+}
+{
+    .cancelbtn{
+        width: 100%;
+    }
+}
+.clink{
+    margin-left: 840px;
+    font-size: 25px;
+    color: black;
+}
+
+</style> 
+</head>
+    <body style="background-color: black;">
+    <div class="logo1">
+    <img src="images/logo1.png" alt="NALAPAKA BOHJANA" height="180">
+    </div>
+    <form action="admin.php" method="post">
+    <div class="container">
+        <div class="container" style="background-color: #f1f1f1">
+        <center><h1>Admin Form</h1></center>
+        </div>
+     <label for="emailid"><b>Username</b></label>
+        <input type="email" placeholder="Enter Email-id" name="emailid" required>
+    <label for="password"><b>Password</b></label>
+        <input type="password" placeholder="Enter Password" name="password">
+    <button type="submit">Login</button>
+    </div>
+        <div class="container" style="background-color: #f1f1f1">
+        <button type="button" class="cancelbtn">Cancel</button>
+        </div>
+    </form>
+    </body>
+</html>
