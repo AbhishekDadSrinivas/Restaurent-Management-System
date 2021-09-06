@@ -1,6 +1,12 @@
 # Restaurent-Management-System
 This project is used to order food online and get the food easily.
 It has add  to cart option and u you can also choose cash on deleviery.
+Step1: wamp server, any text editor to edit html,css, and php.
+Step2:copy all the html and php files to the folder "www"
+www folder is present in wamp64 folder which is inside the C drive
+Step3: copy all the jpg and png images to the images folder which is present in the www folder.
+Step4: import the sql database file in the phpmyadmin that is present in the wamp server.
+Step5: Now execute the home.php in google chrome browser using localhost.
 # SCREENSHOTS
 ![Screenshot (21)](https://user-images.githubusercontent.com/89793622/132084066-6f95fd1d-a092-43cc-ae08-94b550f3f307.png)
 ## HOME PAGE
